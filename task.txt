@@ -1,6 +1,8 @@
  The client would like to have a guest list that includes the names of all guests.
 
-To prevent the list from getting lost, it should be saved in a text file and also read from it. This task will be presented to you in the form of test cases. First, write the test, then the implementation. Only proceed to the next test when all previous tests are passing.
+To prevent the list from getting lost, it should be saved in a text file and also read from it.
+This task will be presented to you in the form of test cases.
+First, write the test, then the implementation. Only proceed to the next test when all previous tests are passing.
 
 
     Test 1:
